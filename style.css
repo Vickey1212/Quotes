@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+  }
+  img{
+    
+    border: 10px solid blanchedalmond;
+    image-rendering: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+   
+    
+  }
+  #h1{
+    color: aliceblue;
+    text-align: center;
+  }
+  #pa{
+    color: azure;
+    text-align: center;
+    size:10cm;
+  }
